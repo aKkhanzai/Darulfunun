@@ -1,0 +1,114 @@
+.logo {
+    height: 10%;
+    width: 10cm;
+}
+.navbar-brand{
+font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.head{
+    color: rgb(238, 194, 0);
+}
+.head h1{
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.line {
+    height: 1.2rem;
+    background-color: rgb(238, 194, 0);
+}
+
+.line-2nd {
+    height: 0.3rem;
+    background-color: #13406a;
+}
+
+
+
+
+.first-slide {
+    height: 35rem;
+    width: 100%;
+    border-radius: 15px;
+
+
+}
+
+.second-slide {
+    height: 35rem;
+    width: 100%;
+    border-radius: 15px;
+}
+
+.third-slide {
+    height: 35rem;
+    width: 100%;
+    border-radius: 15px;
+}
+
+.marketing {
+    padding-top: 2em;
+}
+
+.featurette {
+    margin-top: 3em;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 1em;
+    background-color: #13406a;
+    color: white;
+    height: 2.5rem;
+}
+
+.carousel-caption {
+    padding-bottom: 2em;
+}
+
+.foot {
+    display: flex;
+    justify-content: center;
+}
+
+.slogo {
+    
+    
+    height: 10rem;
+}
+
+.img-size {
+    height: 10rem;
+    width: 20em;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;
+    
+    color: white;
+
+}
+
+.section-form {
+    background-color: #13406a;
+    padding: 10px;
+
+}
+
+.logo-Des {
+    padding-top: 2rem;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    height: 20rem;
+
+}
